@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "WORK IN PROGRESS!!",
+        "Description": "List of things I am working on Right now to delliver the best experience to this blog",
+        "Link": "/projects/to-finish.html",
+        "Date": "04.05.2022 17:16"
+    },
+    {
+        "Name": "My new BLOG",
+        "Description": "I decided to create this blog to share my hobby projects and more-",
+        "Link": "/projects/blog.html",
+        "Date": "04.05.2022 15:42"
+    },
+    {
+        "Name": "WikiSpot",
+        "Description": "My first big project, where I worked in team MaBaSeJ and created decentralized system to share data acros several nodes to our phone app",
+        "Link": "/projects/wikispot.html",
+        "Date": "04.05.2022 15:41 (Project was made much sooner)"
+    }
+]

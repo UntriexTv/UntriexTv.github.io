@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Lenovo Legion y540",
+        "CPU": "Intel I79750h",
+        "RAM": "16GB",
+        "Storage": "1tb(SSD) 2tb(HDD)",
+        "Usage": "Development, main PC"
+    },
+    {
+        "Name": "Raspberry pi 4",
+        "CPU": "Cortex-A72",
+        "RAM": "2GB",
+        "Storage": "32GB (SD)",
+        "Usage": "Docker server and I use it also for lot of different thingsadfsdfsdfsdgf afasd"
+    }
+]
